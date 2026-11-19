@@ -20,12 +20,14 @@ My experience in IT service operations and client management has strengthened my
 
 # Education
 
-Bachelor’s Degree in Sustainable Tourism
-System Analysis Course - Yandex Practicum 
+- Bachelor’s Degree in Sustainable Tourism
+- System Analysis Course - Yandex Practicum 
 
 # Connect with Me
+
 LinkedIn: https://www.linkedin.com/in/alina-nurgaliyeva-ab732a2a8?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 # Location: 
 Almaty, Kazakhstan
-Status: Open to System Analyst opportunities
+
+# Status: Open to System Analyst opportunities
