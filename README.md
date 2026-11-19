@@ -9,6 +9,7 @@ My experience in IT service operations and client management has strengthened my
 
 # Skills & Tools
 • Requirements Gathering & Analysis
+
 • UML, BPMN, DFD
 • Data Modeling: ERD, Normalization, Data Dictionaries
 • API Design: REST, JSON, Swagger
