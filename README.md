@@ -8,15 +8,14 @@ I’m an introspective and analytical person who enjoys exploring complex topics
 My experience in IT service operations and client management has strengthened my communication, analytical, and problem-solving skills.
 
 # Skills & Tools
-• Requirements Gathering & Analysis
-
-• UML, BPMN, DFD
-• Data Modeling: ERD, Normalization, Data Dictionaries
-• API Design: REST, JSON, Swagger
-• Basic SQL
-• UX Prototyping (Figma)
-• User Stories, Job Stories, Backlog Management
-• Testing: Test Cases, Test plan, Defect Reports
+- Requirements Gathering & Analysis
+- UML, BPMN, DFD
+- Data Modeling: ERD, Normalization, Data Dictionaries
+- API Design: REST, JSON, Swagger
+- Basic SQL
+- UX Prototyping (Figma)
+- User Stories, Job Stories, Backlog Management
+- Testing: Test Cases, Test plan, Defect Reports
 
 # Education
 
@@ -30,4 +29,5 @@ LinkedIn: https://www.linkedin.com/in/alina-nurgaliyeva-ab732a2a8?utm_source=sha
 # Location: 
 Almaty, Kazakhstan
 
-# Status: Open to System Analyst opportunities
+# Status: 
+Open to System Analyst opportunities
