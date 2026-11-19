@@ -19,7 +19,7 @@ My experience in IT service operations and client management has strengthened my
 
 # Education
 
-- Bachelor’s Degree in Sustainable Tourism
+- Bachelor’s Degree in Sustainable Tourism - University of International Business (UIB)
 - System Analysis Course - Yandex Practicum 
 
 # Connect with Me
