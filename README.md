@@ -1,4 +1,4 @@
-# Portfolio
+# About me
 Hi, I’m Alina!
 
 I’m a System Analyst and a graduate of the System Analysis course at Yandex Practicum.
